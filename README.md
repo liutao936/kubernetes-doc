@@ -111,7 +111,7 @@ kubectl get pods -n kube-system
 
 kubectl get ns
 
-这节点初始化完成（）
+主节点初始化完成
 
 
 二、node1、node2安装
