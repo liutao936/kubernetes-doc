@@ -1,3 +1,5 @@
+Kubernetes使用
+
 查看node节点详细信息
 
 kubectl describe node node01
